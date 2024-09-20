@@ -1,0 +1,46 @@
+2024-09-12 15:27:00,710 - BasePage.py:[34] - [INFO] - Typing on an element:name_XP2024-09-12 15:27:01,356 - test_signup.py:[51] - [INFO] - Test Do_SignUp successfully executed.
+ement:phone_XPATHthe text is: 645486141
+2024-09-12 15:27:00,906 - BasePage.py:[34] - [INFO] - Typing on an element:email_XPATHthe text is: vatyaniabhi@yahoo.com
+2024-09-12 15:27:00,919 - BasePage.py:[45] - [INFO] - selecting an element:country_XPATHthe value selected is Netherlands
+2024-09-12 15:27:01,064 - BasePage.py:[34] - [INFO] - Typing on an element:city_XPATHthe text is: Amstelveen
+2024-09-12 15:27:01,189 - BasePage.py:[34] - [INFO] - Typing on an element:username_XPATHthe text is: abhivatyani
+2024-09-12 15:27:01,281 - BasePage.py:[34] - [INFO] - Typing on an element:password_XPATHthe text is: abcd1234
+2024-09-12 15:27:01,356 - BasePage.py:[25] - [INFO] - clicking on an element:submit_XPATH
+2024-09-12 20:10:32,360 - test_signup.py:[47] - [INFO] - Test Do_SignUp started.
+2024-09-12 20:10:32,694 - BasePage.py:[34] - [INFO] - Typing on an element:name_XPATHthe text is: Abhilasha
+2024-09-12 20:10:32,885 - BasePage.py:[34] - [INFO] - Typing on an element:phone_XPATHthe text is: 645486141
+2024-09-12 20:10:32,993 - BasePage.py:[34] - [INFO] - Typing on an element:email_XPATHthe text is: vatyaniabhi@yahoo.com
+2024-09-12 20:10:33,003 - BasePage.py:[45] - [INFO] - selecting an element:country_XPATHthe value selected is Netherlands
+2024-09-12 20:10:33,169 - BasePage.py:[34] - [INFO] - Typing on an element:city_XPATHthe text is: Amstelveen
+2024-09-12 20:10:33,275 - BasePage.py:[34] - [INFO] - Typing on an element:username_XPATHthe text is: abhivatyani
+2024-09-12 20:10:33,391 - BasePage.py:[34] - [INFO] - Typing on an element:password_XPATHthe text is: abcd1234
+2024-09-12 20:10:33,471 - BasePage.py:[25] - [INFO] - clicking on an element:submit_XPATH
+2024-09-12 20:10:33,471 - test_signup.py:[51] - [INFO] - Test Do_SignUp successfully executed.
+2024-09-12 20:11:07,775 - test_signup.py:[47] - [INFO] - Test Do_SignUp started.
+2024-09-12 20:11:08,170 - BasePage.py:[34] - [INFO] - Typing on an element:name_XPATHthe text is: Abhilasha
+2024-09-12 20:11:08,255 - BasePage.py:[34] - [INFO] - Typing on an element:phone_XPATHthe text is: 645486141
+2024-09-12 20:11:08,368 - BasePage.py:[34] - [INFO] - Typing on an element:email_XPATHthe text is: vatyaniabhi@yahoo.com
+2024-09-12 20:11:08,378 - BasePage.py:[45] - [INFO] - selecting an element:country_XPATHthe value selected is Netherlands
+2024-09-12 20:11:08,553 - BasePage.py:[34] - [INFO] - Typing on an element:city_XPATHthe text is: Amstelveen
+2024-09-12 20:11:08,671 - BasePage.py:[34] - [INFO] - Typing on an element:username_XPATHthe text is: abhivatyani
+2024-09-12 20:11:08,800 - BasePage.py:[34] - [INFO] - Typing on an element:password_XPATHthe text is: abcd1234
+2024-09-12 20:11:08,876 - BasePage.py:[25] - [INFO] - clicking on an element:submit_XPATH
+2024-09-12 20:11:08,876 - test_signup.py:[51] - [INFO] - Test Do_SignUp successfully executed.
+2024-09-12 20:12:04,273 - test_signup.py:[47] - [INFO] - Test Do_SignUp started.
+2024-09-12 20:12:04,595 - BasePage.py:[34] - [INFO] - Typing on an element:name_XPATHthe text is: Abhilasha
+2024-09-12 20:12:04,710 - BasePage.py:[34] - [INFO] - Typing on an element:phone_XPATHthe text is: 645486141
+2024-09-12 20:12:04,838 - BasePage.py:[34] - [INFO] - Typing on an element:email_XPATHthe text is: vatyaniabhi@yahoo.com
+2024-09-12 20:12:04,848 - BasePage.py:[45] - [INFO] - selecting an element:country_XPATHthe value selected is Netherlands
+2024-09-12 20:12:04,974 - BasePage.py:[34] - [INFO] - Typing on an element:city_XPATHthe text is: Amstelveen
+2024-09-12 20:12:05,051 - BasePage.py:[34] - [INFO] - Typing on an element:username_XPATHthe text is: abhivatyani
+2024-09-12 20:12:05,153 - BasePage.py:[34] - [INFO] - Typing on an element:password_XPATHthe text is: abcd1234
+2024-09-12 20:12:48,661 - test_signup.py:[47] - [INFO] - Test Do_SignUp started.
+2024-09-12 20:12:48,788 - BasePage.py:[34] - [INFO] - Typing on an element:name_XPATHthe text is: Abhilasha
+2024-09-12 20:12:48,813 - BasePage.py:[34] - [INFO] - Typing on an element:phone_XPATHthe text is: 645486141
+2024-09-12 20:12:48,845 - BasePage.py:[34] - [INFO] - Typing on an element:email_XPATHthe text is: vatyaniabhi@yahoo.com
+2024-09-12 20:12:48,853 - BasePage.py:[45] - [INFO] - selecting an element:country_XPATHthe value selected is Netherlands
+2024-09-12 20:12:49,152 - BasePage.py:[34] - [INFO] - Typing on an element:city_XPATHthe text is: Amstelveen
+2024-09-12 20:12:49,172 - BasePage.py:[34] - [INFO] - Typing on an element:username_XPATHthe text is: abhivatyani
+2024-09-12 20:12:49,195 - BasePage.py:[34] - [INFO] - Typing on an element:password_XPATHthe text is: abcd1234
+2024-09-12 20:12:49,525 - BasePage.py:[25] - [INFO] - clicking on an element:submit_XPATH
+2024-09-12 20:12:49,526 - test_signup.py:[51] - [INFO] - Test Do_SignUp successfully executed.

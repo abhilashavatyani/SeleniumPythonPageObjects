@@ -1,0 +1,22 @@
+2024-09-16 11:49:06,137 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:49:06,454 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:49:26,602 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:49:27,081 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:49:31,409 - BasePage.py:[26] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-16 11:56:24,247 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:56:29,541 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:56:47,868 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:56:53,176 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:57:33,188 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:57:33,507 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:57:50,962 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:57:51,269 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:57:55,628 - BasePage.py:[26] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-16 11:58:22,131 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:58:22,776 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 11:58:39,323 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 11:58:39,754 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 14:58:09,605 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 14:58:09,969 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-16 14:58:29,254 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-16 14:58:29,550 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH

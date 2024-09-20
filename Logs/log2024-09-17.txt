@@ -1,0 +1,80 @@
+2024-09-17 11:19:29,053 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:19:29,812 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:19:33,990 - BasePage.py:[26] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:19:56,958 - test_carewale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:19:57,258 - BasePage.py:[63] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:20:01,603 - BasePage.py:[26] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:30:52,765 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:30:53,113 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:31:11,959 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:31:12,274 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:33:07,999 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:33:08,308 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:33:42,377 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:33:42,709 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:41:21,178 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:41:21,489 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:42:01,289 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:42:01,576 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:44:04,030 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:44:04,407 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:44:26,802 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:44:27,222 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:45:03,877 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:45:04,198 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:45:06,326 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:45:40,174 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:45:40,492 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:45:42,611 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:46:15,935 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:46:16,240 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:46:18,332 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:46:55,745 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:46:56,055 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:46:58,350 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:50:27,207 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:50:27,557 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:50:29,681 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:51:06,241 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:51:06,540 - BasePage.py:[67] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:51:08,832 - BasePage.py:[30] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:55:49,278 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:55:49,595 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:58:19,735 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:58:20,051 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:58:22,175 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 11:59:13,761 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 11:59:14,077 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 11:59:16,372 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 12:00:21,201 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 12:00:33,949 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 12:04:43,681 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 12:04:43,712 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 12:04:44,050 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 12:04:46,175 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 12:05:37,841 - test_carwale.py:[13] - [INFO] - ************** Inside New Care Test *****************
+2024-09-17 12:05:37,861 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 12:05:38,143 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 12:05:40,444 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 13:33:13,150 - test_carwale.py:[14] - [INFO] - ************** Inside New Car Test *****************
+2024-09-17 13:33:13,188 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 13:33:13,492 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 13:33:15,634 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 13:33:22,634 - test_carwale.py:[21] - [INFO] - ************** Inside MarutiSuzuki Test *****************
+2024-09-17 13:33:39,254 - test_carwale.py:[14] - [INFO] - ************** Inside New Car Test *****************
+2024-09-17 13:33:39,279 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 13:33:39,824 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 13:33:42,154 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 13:33:49,156 - test_carwale.py:[21] - [INFO] - ************** Inside MarutiSuzuki Test *****************
+2024-09-17 13:36:07,219 - test_carwale.py:[15] - [INFO] - ************** Inside New Car Test *****************
+2024-09-17 13:36:07,241 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 13:36:07,536 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 13:36:09,665 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 13:36:16,666 - test_carwale.py:[22] - [INFO] - ************** Inside MarutiSuzuki Test *****************
+2024-09-17 13:36:16,769 - BasePage.py:[36] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-17 13:36:33,335 - test_carwale.py:[15] - [INFO] - ************** Inside New Car Test *****************
+2024-09-17 13:36:33,356 - BasePage.py:[26] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-17 13:36:33,639 - BasePage.py:[73] - [INFO] - moving the element:newCar_XPATH
+2024-09-17 13:36:35,968 - BasePage.py:[36] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-17 13:36:42,972 - test_carwale.py:[22] - [INFO] - ************** Inside MarutiSuzuki Test *****************
+2024-09-17 13:36:43,249 - BasePage.py:[36] - [INFO] - clicking on an element:marutiSuzuki_XPATH
