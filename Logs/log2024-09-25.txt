@@ -1,0 +1,98 @@
+2024-09-25 12:06:12,126 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:06:12,126 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:06:17,438 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:06:17,567 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:06:18,214 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:09:21,651 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:09:21,651 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:09:26,981 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:09:27,113 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:09:27,494 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:12:32,851 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:12:32,864 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:12:38,165 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:12:38,256 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:12:39,063 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:15:04,631 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:15:04,631 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:15:09,935 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:15:10,030 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:15:10,430 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:31:38,362 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:31:38,369 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:31:43,671 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:31:43,773 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:31:44,167 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:35:36,072 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:35:36,077 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:35:41,412 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:35:41,490 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:35:41,894 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:38:43,543 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:38:43,543 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:38:48,846 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:38:48,938 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:38:49,330 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:42:13,258 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:42:13,262 - test_carwale.py:[78] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:42:18,564 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:42:18,658 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:42:19,033 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:55:07,502 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:55:07,505 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:55:12,794 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:55:12,894 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:55:13,278 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:56:53,967 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:56:53,972 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:56:59,267 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:56:59,364 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:56:59,722 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 12:58:55,405 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 12:58:55,405 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 12:59:00,744 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 12:59:00,832 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 12:59:01,267 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 13:01:03,985 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 13:01:03,985 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 13:01:09,270 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 13:01:09,359 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 13:01:09,762 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 19:00:31,481 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:00:31,491 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:00:36,793 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:00:36,911 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 19:00:37,381 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 19:00:59,541 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:00:59,550 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:00:59,863 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:01:30,619 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:01:30,621 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:01:30,924 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:01:31,087 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 19:01:31,492 - BasePage.py:[41] - [INFO] - clicking on an element:toyota_XPATH
+2024-09-25 19:02:11,576 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:02:11,576 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:02:16,869 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:02:16,966 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 19:02:17,406 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 19:03:47,471 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:03:47,473 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:03:52,803 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:03:52,942 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 19:03:53,349 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 19:07:43,382 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 19:07:43,382 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 19:07:48,707 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 19:07:48,817 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 19:07:49,238 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 22:38:55,968 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 22:38:55,968 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 22:39:01,278 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 22:39:01,447 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 22:39:01,852 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH
+2024-09-25 22:45:35,327 - conftest.py:[78] - [INFO] - Consent popup not found. Moving ahead without handling.
+2024-09-25 22:45:35,327 - test_carwale.py:[79] - [INFO] - ************** Inside Car Names and Prices Test *****************
+2024-09-25 22:45:40,639 - BasePage.py:[77] - [INFO] - moving the element:newCar_XPATH
+2024-09-25 22:45:40,775 - BasePage.py:[41] - [INFO] - clicking on an element:findNewCar_XPATH
+2024-09-25 22:45:41,232 - BasePage.py:[41] - [INFO] - clicking on an element:marutiSuzuki_XPATH

@@ -1,4 +1,6 @@
 # 82. capturing screenshot in case of failure
+import time
+
 import allure
 from allure_commons.types import AttachmentType
 from selenium import webdriver
@@ -57,18 +59,22 @@ def get_browser(request):
 
     driver.get(configReader.readConfig("basic info", "testsiteurl"))
     driver.maximize_window()
+    time.sleep(10)
     yield driver
     driver.quit()
 
 
-# @pytest.fixture(autouse=True)
-# def handleConsentPopup(get_browser):
-#     """Fixture that automatically handles the consent popup if it appears during any test step."""
-#     try:
-#         consent_button_locator = configReader.readConfig("locators", "consent_XPATH")
-#         consent_button = get_browser.find_element(By.XPATH, consent_button_locator)
-#         if consent_button.is_displayed():
-#             consent_button.click()
-#             log.logger.info("Consent popup handled by clicking on the consent button.")
-#     except NoSuchElementException:
-#         log.logger.info("Consent popup not found. Moving ahead without handling.")
+@pytest.fixture(autouse=True)
+def handleConsentPopup(get_browser):
+    """Fixture that automatically handles the consent popup if it appears during any test step."""
+    driver = get_browser
+    try:
+        consent_button_locator = configReader.readConfig("locators", "consent_XPATH")
+        consent_button = driver.find_element(By.XPATH, consent_button_locator)
+        if consent_button.is_displayed():
+            consent_button.click()
+            log.logger.info("Consent popup handled by clicking on the consent button.")
+    except NoSuchElementException:
+        log.logger.info("Consent popup not found. Moving ahead without handling.")
+
+    return True

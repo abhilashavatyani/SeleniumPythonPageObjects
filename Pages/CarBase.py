@@ -9,6 +9,7 @@ class CarBase:
 
     def getCarTitle(self):
         return self.driver.find_element(By.XPATH, configReader.readConfig("locators", "carTitle_XPATH")).text
+        #return self.driver.find_element(By.XPATH, configReader.readConfig("locators", "carTitle_XPATH")).text
 
     def getCarNamesandPrices(self):
         carNames = self.driver.find_elements(By.XPATH, configReader.readConfig("locators", "carNames_XPATH"))

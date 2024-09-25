@@ -3,6 +3,7 @@ import time
 import logging
 
 import pytest
+from selenium.common import UnexpectedAlertPresentException, NoAlertPresentException
 
 from Pages.CarBase import CarBase
 from Pages.HomePage import HomePage
@@ -38,7 +39,7 @@ class Test_CarWale(BaseTest):
         home = HomePage(self.driver)
         car = CarBase(self.driver)
 
-        home.handleConsentPopup()  # Handle the consent popup before proceeding
+        #home.handleConsentPopup()  # Handle the consent popup before proceeding
 
         if carBrand == "MarutiSuzuki":
             home.gotoNewCars().selectMarutiSuzuki()
@@ -81,18 +82,30 @@ class Test_CarWale(BaseTest):
         home = HomePage(self.driver)
         car = CarBase(self.driver)
 
-        # home.handleConsentPopup()  # Handle the consent popup before proceeding
-
         if carBrand == "MarutiSuzuki":
+            time.sleep(5)
             # click NewCar > Find New car > select MarutiSuzuki
             home.gotoNewCars().selectMarutiSuzuki()
+            time.sleep(5)
             # print the title of Maruti Suzuki
             title = car.getCarTitle()
-            print("The car title is " + title)
+            print(f"The car title is, {title}")
             # validate the title of the car
             assert title == carTitle, "Not on the correct page as the title is not matching."
-            # get cars name and price
-            car.getCarNamesandPrices()
+            time.sleep(5)
+
+            try:
+                # get cars name and price
+                car.getCarNamesandPrices()
+            except UnexpectedAlertPresentException as e:
+                # If an unexpected alert appears, handle it by accepting it
+                alert = self.driver.switch_to.alert
+                print(f"Unexpected alert present: {alert.text}")
+                alert.dismiss()
+            except NoAlertPresentException:
+                # If no alert is present, just continue
+                pass
+
         elif carBrand == "Tata":
             home.gotoNewCars().selectTata()
             title = car.getCarTitle()
