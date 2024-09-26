@@ -85,6 +85,7 @@ class Test_CarWale(BaseTest):
         if carBrand == "MarutiSuzuki":
             time.sleep(5)
             # click NewCar > Find New car > select MarutiSuzuki
+
             home.gotoNewCars().selectMarutiSuzuki()
             time.sleep(5)
             # print the title of Maruti Suzuki
