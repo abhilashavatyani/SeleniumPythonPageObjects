@@ -69,17 +69,22 @@ def get_browser(request):
         # service = Service(executable_path=GeckoDriverManager().install())
         # driver = webdriver.Firefox(service=service)
 
-        # browser_options = FirefoxOptions()
-        capabilities = DesiredCapabilities.FIREFOX.copy()
+        browser_options = FirefoxOptions()
+        # capabilities = DesiredCapabilities.FIREFOX.copy()
         driver = webdriver.Remote(command_executor=remote_url,
-                                  desired_capabilities=capabilities)                                     #options=browser_options
+                                  options=browser_options)                                     # desired_capabilities=capabilities
         # request.cls.driver = driver  # added when moved all usefixture call to BaseTest.py
 
     driver.get(configReader.readConfig("basic info", "testsiteurl"))
     driver.maximize_window()
     time.sleep(10)
     yield driver
-    driver.quit()
+
+    #driver.quit()
+    try:
+        driver.quit()
+    except Exception as e:
+        log.logger.error(f"Error occurred while quitting the browser: {e}"):wq
 
 
 @pytest.fixture(autouse=True)
