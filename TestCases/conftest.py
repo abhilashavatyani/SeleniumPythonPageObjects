@@ -84,7 +84,7 @@ def get_browser(request):
     try:
         driver.quit()
     except Exception as e:
-        log.logger.error(f"Error occurred while quitting the browser: {e}"):wq
+        log.logger.error(f"Error occurred while quitting the browser: {e}")
 
 
 @pytest.fixture(autouse=True)
