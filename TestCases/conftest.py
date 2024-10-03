@@ -11,6 +11,10 @@ from selenium.webdriver.chrome.service import Service
 import pytest
 from webdriver_manager.firefox import GeckoDriverManager
 
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.chrome.options import Options as ChromeOptions
+
 from Utilities import configReader
 
 import logging
@@ -41,21 +45,35 @@ def log_on_failure(request, get_browser):  # 83. use common fixture defined unde
 # 84.pytest – Parameterized fixture
 @pytest.fixture(params=["chrome", "firefox"], scope="function")
 def get_browser(request):
+    # hub url
+    remote_url = "http://localhost:4444/wd/hub"
+
     if request.param == "chrome":
-        options = webdriver.ChromeOptions()
+        # options = webdriver.ChromeOptions()
+        # set up chrome/firefox options
+        browser_options = ChromeOptions()
+
         # Add option to block notifications
         prefs = {
             "profile.default_content_setting_values.notifications": 2  # 2 means block
         }
-        options.add_experimental_option("prefs", prefs)
+        browser_options.add_experimental_option("prefs", prefs)
 
-        service = Service(executable_path=ChromeDriverManager().install().replace("THIRD_PARTY_NOTICES.chromedriver",
-                                                                                  "chromedriver.exe"))
-        driver = webdriver.Chrome(service=service, options=options)
+        # service = Service(executable_path=ChromeDriverManager().install().replace("THIRD_PARTY_NOTICES.chromedriver",
+        # "chromedriver.exe"))
+        # driver = webdriver.Chrome(service=service, options=browser_options)
+        driver = webdriver.Remote(command_executor=remote_url,
+                                  options=browser_options)  # Using chrome/firefox by default as defined in the node1/2.json
+
     if request.param == "firefox":
-        service = Service(executable_path=GeckoDriverManager().install())
-        driver = webdriver.Firefox(service=service)
-    request.cls.driver = driver  # added when moved all usefixture call to BaseTest.py
+        # service = Service(executable_path=GeckoDriverManager().install())
+        # driver = webdriver.Firefox(service=service)
+
+        # browser_options = FirefoxOptions()
+        capabilities = DesiredCapabilities.FIREFOX.copy()
+        driver = webdriver.Remote(command_executor=remote_url,
+                                  desired_capabilities=capabilities)                                     #options=browser_options
+        # request.cls.driver = driver  # added when moved all usefixture call to BaseTest.py
 
     driver.get(configReader.readConfig("basic info", "testsiteurl"))
     driver.maximize_window()
